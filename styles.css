@@ -1,0 +1,18 @@
+
+#txtNombre {
+    color:red;
+}
+
+.cuadro {
+    border: 2px green solid;
+    padding: 5px;
+}
+
+.tabla {
+    border: solid 1px black;
+}
+
+th, td {
+    padding: 2px;
+    border: 1px solid black;
+}
